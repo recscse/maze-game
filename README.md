@@ -1,2 +1,2 @@
 # maze-game
-#click:[https://recscse.github.io/maze-game/] on this 
+Live Url: https://recscse.github.io/maze-game/ 
